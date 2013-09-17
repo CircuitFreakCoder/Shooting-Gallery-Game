@@ -1,7 +1,7 @@
 Shooting Gallery Game
 =====================
 
-###The ShootingGallery game consists of six classes: </br>
+</br>
 
 + _**ShootingGallery**_ defines and manages the user interface. </br>
 + _**ShootingGalleryPanel**_ manages the playing area and contains the game loop. </br>
