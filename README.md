@@ -1,4 +1,4 @@
-Shooting-Gallery-Game
+Shooting Gallery Game
 =====================
 
 ###The ShootingGallery game consists of six classes: </br>
